@@ -1,0 +1,217 @@
+{
+  "schedule": [
+    {
+      "day": "Monday",
+      "exercises": [
+        {
+          "name": "Incline",
+          "sets": 4,
+          "reps": "8-10",
+          "weight": 135
+        },
+        {
+          "name": "Flys",
+          "sets": 3,
+          "reps": "10-15",
+          "weight": 17.5
+        },
+        {
+          "name": "Chest press",
+          "sets": 3,
+          "reps": "8-6",
+          "weight": 225
+        },
+        {
+          "name": "Pull up's",
+          "sets": null,
+          "reps": null,
+          "weight": null
+        },
+        {
+          "name": "Cable rows",
+          "sets": 3,
+          "reps": "8-10",
+          "weight": 130
+        },
+        {
+          "name": "Pull downs",
+          "sets": 3,
+          "reps": "8-10",
+          "weight": 110
+        }
+      ]
+    },
+    {
+      "day": "Tuesday",
+      "exercises": [
+        {
+          "name": "Bar bell press",
+          "sets": 4,
+          "reps": "6-8",
+          "weight": 95
+        },
+        {
+          "name": "Db lat raise",
+          "sets": 3,
+          "reps": "15-20",
+          "weight": 15
+        },
+        {
+          "name": "Cable lat raise",
+          "sets": 3,
+          "reps": "15-20",
+          "weight": 7.5
+        },
+        {
+          "name": "Rear felt fly",
+          "sets": 3,
+          "reps": "15-20",
+          "weight": 7.5
+        },
+        {
+          "name": "Face pull",
+          "sets": 3,
+          "reps": "20-15",
+          "weight": 27
+        },
+        {
+            "name": "Barbell Curl",
+            "sets": 3,
+            "reps": "10-15",
+            "weight": 50
+          },
+          {
+            "name": "CableCurl",
+            "sets": 3,
+            "reps": "10-15",
+            "weight": "17.5"
+          },
+        {
+          "name": "Push down",
+          "sets": 3,
+          "reps": "8-12",
+          "weight": 62.5
+        },
+        {
+          "name": "Dipps",
+          "sets": null,
+          "reps": null,
+          "weight": null
+        }
+      ]
+    },
+    {
+      "day": "Wednesday",
+      "exercises": []
+    },
+    {
+      "day": "Thursday",
+      "exercises": [
+        {
+          "name": "Bench press",
+          "sets": 5,
+          "reps": "2-4",
+          "weight": 205
+        },
+        {
+          "name": "Db incline",
+          "sets": 3,
+          "reps": "8-12",
+          "weight": 55
+        },
+        {
+          "name": "Low->hight fly",
+          "sets": 3,
+          "reps": "10-15",
+          "weight": 17
+        },
+        {
+          "name": "Pull ups",
+          "sets": 3,
+          "reps": "6",
+          "weight": 25
+        },
+        {
+          "name": "Wide row",
+          "sets": 3,
+          "reps": "10-12",
+          "weight": 80
+        },
+        {
+          "name": "Pull downs",
+          "sets": 3,
+          "reps": "6-8",
+          "weight": 130
+        }
+      ]
+    },
+    {
+      "day": "Friday",
+      "exercises": [
+        {
+          "name": "Bar bell press",
+          "sets": 4,
+          "reps": "6-8",
+          "weight": 95
+        },
+        {
+          "name": "Db lat raise",
+          "sets": 3,
+          "reps": "15-20",
+          "weight": 15
+        },
+        {
+          "name": "Cable lat raise",
+          "sets": 3,
+          "reps": "15-20",
+          "weight": 7.5
+        },
+        {
+          "name": "Rear felt fly",
+          "sets": 3,
+          "reps": "15-20",
+          "weight": 7.5
+        },
+        {
+          "name": "Face pull",
+          "sets": 3,
+          "reps": "20-15",
+          "weight": 27
+        },
+        {
+          "name": "Barbell Curl",
+          "sets": 3,
+          "reps": "10-15",
+          "weight": 50
+        },
+        {
+          "name": "CableCurl",
+          "sets": 3,
+          "reps": "10-15",
+          "weight": "17.5"
+        },
+        {
+          "name": "Push down",
+          "sets": 3,
+          "reps": "8-12",
+          "weight": 62.5
+        },
+        {
+          "name": "Dipps",
+          "sets": null,
+          "reps": null,
+          "weight": null
+        }
+      ]
+    },
+    {
+      "day": "Saturday",
+      "exercises": []
+    },
+    {
+      "day": "Sunday",
+      "exercises": []
+    }
+  ]
+}
+
